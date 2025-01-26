@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #fff;
+  }
+  
+  header {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+  }
+  
+  .movie-container {
+    max-width: 600px;
+    margin: 2rem auto;
+    text-align: center;
+  }
+  
+  input {
+    padding: 0.5rem;
+    width: 70%;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    background-color: #0066cc;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005bb5;
+  }
+  
+  #movie-player {
+    margin-top: 1rem;
+    background-color: #000;
+    padding: 1rem;
+  }
